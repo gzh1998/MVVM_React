@@ -1,0 +1,221 @@
+[{
+    "id": "0",
+    "title": "推荐列表",
+    "content": [{
+        "url": "https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=2208582399,941627344&fm=200&gp=0.jpg",
+        "name": "电风扇"
+    }, {
+        "url": "https://ss2.bdstatic.com/8_V1bjqh_Q23odCf/pacific/1657077481.jpg",
+        "name": "手机"
+    }, {
+        "url": "https://ss1.baidu.com/6ONXsjip0QIZ8tyhnq/it/u=1349071231,501123640&fm=58&bpow=881&bpoh=559",
+        "name": "空调"
+    }, {
+        "url": "https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=4100222359,2787706336&fm=27&gp=0.jpg",
+        "name": "床单"
+    }, {
+        "url": "https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/u=4003388535,3793294339&fm=27&gp=0.jpg",
+        "name": "自行车"
+    }, {
+        "url": "https://ss0.baidu.com/6ONWsjip0QIZ8tyhnq/it/u=238953030,945025470&fm=58&bpow=1000&bpoh=1000",
+        "name": "皮鞋"
+    }]
+}, {
+    "id": "1",
+    "title": "数码数据",
+    "content": [{
+        "url": "https://ss2.bdstatic.com/8_V1bjqh_Q23odCf/pacific/1657077481.jpg",
+        "name": "手机"
+    }, {
+        "url": "https://ss2.bdstatic.com/8_V1bjqh_Q23odCf/pacific/1657052091.jpg",
+        "name": "手机"
+    }, {
+        "url": "https://ss2.bdstatic.com/8_V1bjqh_Q23odCf/pacific/1657077481.jpg",
+        "name": "手机"
+    }, {
+        "url": "https://ss2.bdstatic.com/8_V1bjqh_Q23odCf/pacific/1657077481.jpg",
+        "name": "手机"
+    }, {
+        "url": "https://ss2.bdstatic.com/8_V1bjqh_Q23odCf/pacific/1657052091.jpg",
+        "name": "手机"
+    }, {
+        "url": "https://ss2.bdstatic.com/8_V1bjqh_Q23odCf/pacific/1657052091.jpg",
+        "name": "手机"
+    }, {
+        "url": "https://ss2.bdstatic.com/8_V1bjqh_Q23odCf/pacific/1657052091.jpg",
+        "name": "手机"
+    }]
+}, {
+    "id": "2",
+    "title": "家用电器",
+    "content": [{
+        "url": "https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=2208582399,941627344&fm=200&gp=0.jpg",
+        "name": "电风扇"
+    }, {
+        "url": "https://ss2.bdstatic.com/8_V1bjqh_Q23odCf/pacific/1574618524.jpg",
+        "name": "电风扇"
+    }, {
+        "url": "https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=2208582399,941627344&fm=200&gp=0.jpg",
+        "name": "电风扇"
+    }, {
+        "url": "https://ss2.bdstatic.com/8_V1bjqh_Q23odCf/pacific/1574618524.jpg",
+        "name": "电风扇"
+    }, {
+        "url": "https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=2208582399,941627344&fm=200&gp=0.jpg",
+        "name": "电风扇"
+    }, {
+        "url": "https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=2208582399,941627344&fm=200&gp=0.jpg",
+        "name": "电风扇"
+    }, {
+        "url": "https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=2208582399,941627344&fm=200&gp=0.jpg",
+        "name": "电风扇"
+    }]
+}, {
+    "id": "3",
+    "title": "衣服鞋子",
+    "content": [{
+        "url": "https://ss0.baidu.com/6ONWsjip0QIZ8tyhnq/it/u=238953030,945025470&fm=58&bpow=1000&bpoh=1000",
+        "name": "皮鞋"
+    }, {
+        "url": "https://ss2.bdstatic.com/8_V1bjqh_Q23odCf/pacific/1643577647.jpg",
+        "name": "皮鞋"
+    }, {
+        "url": "https://ss0.baidu.com/6ONWsjip0QIZ8tyhnq/it/u=238953030,945025470&fm=58&bpow=1000&bpoh=1000",
+        "name": "皮鞋"
+    }, {
+        "url": "https://ss0.baidu.com/6ONWsjip0QIZ8tyhnq/it/u=238953030,945025470&fm=58&bpow=1000&bpoh=1000",
+        "name": "皮鞋"
+    }, {
+        "url": "https://ss2.bdstatic.com/8_V1bjqh_Q23odCf/pacific/1643577647.jpg",
+        "name": "皮鞋"
+    }, {
+        "url": "https://ss0.baidu.com/6ONWsjip0QIZ8tyhnq/it/u=238953030,945025470&fm=58&bpow=1000&bpoh=1000",
+        "name": "皮鞋"
+    }, {
+        "url": "https://ss0.baidu.com/6ONWsjip0QIZ8tyhnq/it/u=238953030,945025470&fm=58&bpow=1000&bpoh=1000",
+        "name": "皮鞋"
+    }]
+}, {
+    "id": "4",
+    "title": "床上用品",
+    "content": [{
+        "url": "https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=4100222359,2787706336&fm=27&gp=0.jpg",
+        "name": "床单"
+    }, {
+        "url": "https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=4100222359,2787706336&fm=27&gp=0.jpg",
+        "name": "床单"
+    }, {
+        "url": "https://ss2.bdstatic.com/8_V1bjqh_Q23odCf/pacific/1657077481.jpg",
+        "name": "手机"
+    }, {
+        "url": "https://ss2.bdstatic.com/8_V1bjqh_Q23odCf/pacific/1657077481.jpg",
+        "name": "手机"
+    }, {
+        "url": "https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=4100222359,2787706336&fm=27&gp=0.jpg",
+        "name": "床单"
+    }, {
+        "url": "https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=4100222359,2787706336&fm=27&gp=0.jpg",
+        "name": "床单"
+    }, {
+        "url": "https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=4100222359,2787706336&fm=27&gp=0.jpg",
+        "name": "床单"
+    }, {
+        "url": "https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=4100222359,2787706336&fm=27&gp=0.jpg",
+        "name": "床单"
+    }]
+}, {
+    "id": "5",
+    "title": "自行车类",
+    "content": [{
+        "url": "https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/u=4003388535,3793294339&fm=27&gp=0.jpg",
+        "name": "自行车"
+    }, {
+        "url": "https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/u=4003388535,3793294339&fm=27&gp=0.jpg",
+        "name": "自行车"
+    }, {
+        "url": "https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/u=4003388535,3793294339&fm=27&gp=0.jpg",
+        "name": "自行车"
+    }, {
+        "url": "https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/u=4003388535,3793294339&fm=27&gp=0.jpg",
+        "name": "自行车"
+    }, {
+        "url": "https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/u=4003388535,3793294339&fm=27&gp=0.jpg",
+        "name": "自行车"
+    }]
+}, {
+    "id": "6",
+    "title": "数码数据",
+    "content": [{
+        "url": "https://ss2.bdstatic.com/8_V1bjqh_Q23odCf/pacific/1657077481.jpg",
+        "name": "手机"
+    }, {
+        "url": "https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/u=4003388535,3793294339&fm=27&gp=0.jpg",
+        "name": "自行车"
+    }, {
+        "url": "https://ss2.bdstatic.com/8_V1bjqh_Q23odCf/pacific/1657077481.jpg",
+        "name": "手机"
+    }, {
+        "url": "https://ss2.bdstatic.com/8_V1bjqh_Q23odCf/pacific/1657077481.jpg",
+        "name": "手机"
+    }, {
+        "url": "https://ss2.bdstatic.com/8_V1bjqh_Q23odCf/pacific/1657052091.jpg",
+        "name": "手机"
+    }]
+}, {
+    "id": "7",
+    "title": "数码数据",
+    "content": [{
+        "url": "https://ss2.bdstatic.com/8_V1bjqh_Q23odCf/pacific/1657077481.jpg",
+        "name": "手机"
+    }, {
+        "url": "https://ss2.bdstatic.com/8_V1bjqh_Q23odCf/pacific/1657052091.jpg",
+        "name": "手机"
+    }, {
+        "url": "https://ss2.bdstatic.com/8_V1bjqh_Q23odCf/pacific/1657077481.jpg",
+        "name": "手机"
+    }, {
+        "url": "https://ss2.bdstatic.com/8_V1bjqh_Q23odCf/pacific/1657077481.jpg",
+        "name": "手机"
+    }, {
+        "url": "https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/u=4003388535,3793294339&fm=27&gp=0.jpg",
+        "name": "自行车"
+    }]
+}, {
+    "id": "8",
+    "title": "数码数据",
+    "content": [{
+        "url": "https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/u=4003388535,3793294339&fm=27&gp=0.jpg",
+        "name": "自行车"
+    }, {
+        "url": "https://ss2.bdstatic.com/8_V1bjqh_Q23odCf/pacific/1657052091.jpg",
+        "name": "手机"
+    }, {
+        "url": "https://ss2.bdstatic.com/8_V1bjqh_Q23odCf/pacific/1657077481.jpg",
+        "name": "手机"
+    }, {
+        "url": "https://ss2.bdstatic.com/8_V1bjqh_Q23odCf/pacific/1657077481.jpg",
+        "name": "手机"
+    }, {
+        "url": "https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/u=4003388535,3793294339&fm=27&gp=0.jpg",
+        "name": "自行车"
+    }]
+}, {
+    "id": "9",
+    "title": "数码数据",
+    "content": [{
+        "url": "https://ss2.bdstatic.com/8_V1bjqh_Q23odCf/pacific/1657077481.jpg",
+        "name": "手机"
+    }, {
+        "url": "https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/u=4003388535,3793294339&fm=27&gp=0.jpg",
+        "name": "自行车"
+    }, {
+        "url": "https://ss2.bdstatic.com/8_V1bjqh_Q23odCf/pacific/1657077481.jpg",
+        "name": "手机"
+    }, {
+        "url": "https://ss2.bdstatic.com/8_V1bjqh_Q23odCf/pacific/1657077481.jpg",
+        "name": "手机"
+    }, {
+        "url": "https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/u=4003388535,3793294339&fm=27&gp=0.jpg",
+        "name": "自行车"
+    }]
+}]
